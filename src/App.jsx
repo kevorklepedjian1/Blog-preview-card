@@ -1,5 +1,4 @@
 import BlogCard from './Components/Blogcard'
-import Hero from './Components/Hero'
 
 
 function App() {
